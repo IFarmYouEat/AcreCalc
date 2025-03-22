@@ -1,14 +1,14 @@
-import './App.css'
+import './index.css'
 
 function App() {
 
   return (
-    <>
+    <div className="text-center">
       <h1>AcreCalc</h1>
-      <p className="read-the-docs">
-        Site in Construction.
+      <p>
+        Site under Construction.
       </p>
-    </>
+    </div>
   )
 }
 
